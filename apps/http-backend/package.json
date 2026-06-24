@@ -15,7 +15,8 @@
     "@types/jsonwebtoken": "^9.0.10",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
-    "ws": "^8.21.0"
+    "ws": "^8.21.0",
+    "@repo/db" :"workspace:*"
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
@@ -24,5 +25,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module"
 }
